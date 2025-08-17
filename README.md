@@ -45,5 +45,5 @@ Provide a learning foundation for more complex decentralized applications (dApps
 
 Contract Details
 
-Deployed contract address:
-STQTXZ1YN814VAS3MPKE477ASQ53A3E6NRDP69XS.counter
+<img width="1445" height="784" alt="image" src="https://github.com/user-attachments/assets/1ae3e762-d10d-4ddc-afb2-154c0c39f354" />
+
